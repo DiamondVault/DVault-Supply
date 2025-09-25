@@ -1,6 +1,6 @@
 {
-  "total_supply": 100000000000,
-  "circulating_supply": 35000000000,
-  "locked_supply": 65000000000,
-  "last_update": "2025-09-25"
+  "totalSupply": 100000000000,
+  "circulatingSupply": 35000000000,
+  "lockedSupply": 65000000000,
+  "lastUpdate": "2025-09-25"
 }
